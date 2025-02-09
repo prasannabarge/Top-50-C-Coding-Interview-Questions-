@@ -1,3 +1,14 @@
+# macOS
+.DS_Store
+
+# Linux
+*.swp
+*~
+
+# Windows
+Thumbs.db
+Desktop.ini
+
 # Prerequisites
 *.d
 
@@ -50,3 +61,19 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# VS Code
+.vscode/
+
+# Others
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.swn
+*.db
+*.sqlite
+*.sublime-project
+*.sublime-workspace
+.idea/
